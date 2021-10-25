@@ -1,6 +1,6 @@
 ## Hey, [Anirudha ](https://www.linkedin.com/in/anirudha-kurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1>Welcome To  Codic Gryffindors  World..<img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" width="25px"> </h1>
+<h1>Welcome To  Codic Gryffindors  World..<img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" width="45px"> </h1>
 
 <img src = 'https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.gif' alt = 'Awesome Matrix Code' align='centre'/>
 
