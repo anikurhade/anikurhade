@@ -2,7 +2,7 @@
 
 <h1>Welcome To  Codic Gryffindors  World..</h1><img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" width="25px"> 
 
-<img src = 'https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.wmv' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
