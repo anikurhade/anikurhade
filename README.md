@@ -36,7 +36,7 @@
 * Machine Learning
 
 ## Technical Knowledge
- ### Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='28'  /> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='28'  /></a>
+ ### Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='28'  /> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='28'  /><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a>
 
 
 ### Frontend: <a href="https://developer.mozilla.org/en-US/docs/Web/html"><img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/css"> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='28'  /> <a href="https://sass-lang.com/"><img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/></a>
