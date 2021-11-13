@@ -47,11 +47,9 @@
   - :octocat: [My Resume]
   
 ## My Current Stats
-<div align="center">
+
 Stats | Languages
 ------| ----------
-![Anirudha 's Github Stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikurhade&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anikurhade/github-readme-stats)
-
 ![Anirudha 's Github Stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikurhade&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anikurhade/github-readme-stats)
 
 ## Now Playing 🎧
