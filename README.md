@@ -47,10 +47,15 @@
   - :octocat: [My Resume]
   
 ## My Current Stats
-![Anirudha's github stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&hide=[%22issues%22])
+<div align="center">
+Stats | Languages
+------| ----------
+![Anirudha 's Github Stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikurhade&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anikurhade/github-readme-stats)
+
+![Anirudha 's Github Stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikurhade&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anikurhade/github-readme-stats)
 
 ## Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&redirect=true)(https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh)
 <br/>
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
