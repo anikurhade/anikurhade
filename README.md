@@ -54,7 +54,7 @@
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://open.spotify.com/embed/album/622NFw5Yk0OReMJ2XWcXUh?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture )](https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
+[![spotify-github-profile]<iframe src="https://open.spotify.com/embed/album/622NFw5Yk0OReMJ2XWcXUh?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>](https://open.spotify.com/embed/album/622NFw5Yk0OReMJ2XWcXUh?utm_source=generator&theme=0)
 <br/>
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
