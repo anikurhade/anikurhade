@@ -48,12 +48,9 @@
   
 ## My Current Stats
 ![Anirudha's github stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&hide=[%22issues%22])
- 
- 
----
 
-### Now Playing 🎧
-!  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&cover_image=true&theme=default&bar_color=030303)](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&redirect=true)
+## Now Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&cover_image=true&theme=default&bar_color=030303)](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&redirect=true)
 <br/>
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
