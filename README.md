@@ -46,7 +46,7 @@
 
 
 ## Other Stuff
-  - :octocat: [My Resume]
+  - :octocat: 
   
 ## My Current Stats
 
