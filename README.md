@@ -35,14 +35,18 @@
 * Data Science
 * Machine Learning
 
-## Programming Languages I Know 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30' margin-right='15' /> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30' margin-left='15'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30' margin-left='15'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30' margin-left='15'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30' margin-left='15'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33' margin-left='15'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30' margin-left='15'/> 
+## Technical Knowledge
+
  
+ ### Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30' margin-right='15' /> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30' margin-left='15'/></a>
+
+
+### Frontend: <a href="https://developer.mozilla.org/en-US/docs/Web/html"><img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/css"> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a><a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://sass-lang.com/"><img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/></a>
+
+
+### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a>
+
+
 ## Other Stuff
   - :octocat: [My Resume]
   
@@ -54,7 +58,7 @@ Stats | Languages
 
 ## Now Playing 🎧
  <div align="center">
- 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ja0tf21fsaquua71ezhafa0v3&redirect=true)
 <br/>
  
