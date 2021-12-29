@@ -9,7 +9,7 @@
  ```python
  class WhoAmI:
  	user = 'Anirudha Kurhade'
-		current_edu = "Government Polytechnic Pune"
+		current_edu = "Vishwakarma Institute Of Information Technology"
 		hobbies = [
 				'Produce EDM beats',
 				'Watching Sci-Fi,Fictional Movies And WebSeries',
