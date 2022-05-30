@@ -56,7 +56,9 @@ Stats | Languages
 
 ## Now Playing On My List 🎧
  <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&redirect=true)
+
+	[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+	
 <br/>
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
