@@ -1,4 +1,4 @@
-## Hey, [Anirudha ](https://www.linkedin.com/in/anirudha-kurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
+## Hey, [Anirudha ](https://www.linkedin.com/in/anikurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
 
 <h1>Welcome To  Codic Gryffindors  World..  <img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" height="30px" width="45px"> </h1>
 <div align="center">
