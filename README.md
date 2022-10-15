@@ -65,6 +65,5 @@ Stats | Languages
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&redirect=true)
 	
 <br/>
+ 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
-
-## Watch my yearly activity below!
