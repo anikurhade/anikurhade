@@ -67,4 +67,5 @@ Stats | Languages
 <br/>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
 
-## Watch my yearly activity below!
+## My Holopin Collection!
+[![@anikurhade's Holopin board](https://holopin.me/anikurhade)](https://holopin.io/@anikurhade)
