@@ -5,7 +5,8 @@
 <img src = 'https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.gif' alt = 'Awesome Matrix Code' />
 </div>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
- ## Who am I?
+
+## Who am I?
  ```python
  class WhoAmI:
  	user = 'Anirudha Kurhade'
