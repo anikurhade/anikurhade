@@ -46,7 +46,7 @@
 ### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a><img align="center" src="https://img.icons8.com/color/32/000000/pycharm.png"/>
 
 
-## Other Stuff
+## Visit My Portfolio
   - :octocat: 
   
 ## My Current Stats
