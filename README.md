@@ -47,7 +47,7 @@
 
 
 ## Visit My Portfolio
-  - :octocat:(https://anikurhade.github.io/codophilic_Ani/) 
+  - :octocat: 
   
 ## My Current Stats
 <p align="center">
