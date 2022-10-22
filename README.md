@@ -11,7 +11,8 @@
  class WhoAmI:
  	user = 'Anirudha Kurhade'
 		current_edu = "Vishwakarma Institute Of Information Technology"
-		hobbies = [
+		hobbies = [![octocat-1666328419687](https://user-images.githubusercontent.com/63186413/197313016-37c854ca-e068-429e-ab61-35b70c9ac785.png)
+
 				'Produce EDM beats',
 				'Watching Sci-Fi,Fictional Movies And WebSeries',
 				'Being up all Night chasing that ONE BUG...'
@@ -71,5 +72,8 @@ Stats | Languages
 ## My Holopin Collection!
 [![@anikurhade's Holopin board](https://holopin.me/anikurhade)](https://holopin.io/@anikurhade)
 	
-	
+## My Octocat Collection
+![octocat-1666328419687](https://user-images.githubusercontent.com/63186413/197313090-91736042-2136-41b3-8d9a-e3efdfc98308.png)
+![octocat-1666328122054](https://user-images.githubusercontent.com/63186413/197314234-38f38109-9cb8-4795-b852-efbc6294f285.png)
+
 <!-- Thats a great collection! -->
