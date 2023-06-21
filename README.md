@@ -68,12 +68,3 @@ Stats | Languages
 	
 <br/>
 
-
-## My Holopin Collection!
-[![@anikurhade's Holopin board](https://holopin.me/anikurhade)](https://holopin.io/@anikurhade)
-	
-## My Octocat Collection
-![octocat-1666328419687](https://user-images.githubusercontent.com/63186413/197313090-91736042-2136-41b3-8d9a-e3efdfc98308.png)
-![octocat-1666328122054](https://user-images.githubusercontent.com/63186413/197314234-38f38109-9cb8-4795-b852-efbc6294f285.png)
-
-<!-- Thats a great collection! -->
